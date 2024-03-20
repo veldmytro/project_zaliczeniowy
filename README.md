@@ -1,1 +1,1 @@
-# project_zaliczeniowy
+# project_zaliczeniowy dla środowiska pracy informatyka
